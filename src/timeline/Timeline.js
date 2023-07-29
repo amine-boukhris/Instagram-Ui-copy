@@ -39,7 +39,7 @@ function Timeline() {
             timestamp: "2h",
         },
     ]);
-// I am trying to use photos from online resources in a react project but when fetching the image I get "the connection used to fetch this resource is not secure"
+    
     return (
         <div className="timeline">
             <div className="timeline__left">
